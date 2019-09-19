@@ -1,0 +1,76 @@
+/*header
+*/.container{
+	background-color: #0A262A;
+	margin: 0 auto;
+	max-width: 1680px;
+	height: 250px;
+}
+.logo{
+	height: 250px;
+}
+.flex{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.nav-ul{
+	display: flex;
+}
+.nav-li{
+	margin-left: 50px;
+	font-size: 50px;
+}
+.witcher{
+	height: 250px;
+}
+.wraper{
+	margin-top: 15px;
+}
+.box-wraper{
+		margin: 0 auto;
+	    max-width: 1680px;
+}
+/*box1*/
+.box1{
+	width: 560px;
+}
+.geralt{
+	height: 400px;
+	float: left;
+	margin-right: 10px;
+}
+.text1{
+	font-size: 16px;
+	margin: 0 auto;
+}
+.text1a{
+	margin: 10px;
+}
+/*box2*/
+.ciri{
+	height: 400px;
+	float: left;
+	margin-right: 10px;
+}
+.box1{
+	float: left;
+}
+.text1b{
+	margin: 15px;
+}
+/*box3*/
+.yen{
+	height: 400px;
+	float: right;
+	margin-left: 30px;
+}
+.text1c{
+	margin: 15px;
+}
+
+span{
+	color: blue;
+}
+a{
+	color: #FC8A10;
+}
