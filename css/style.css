@@ -60,7 +60,7 @@
 	width: 300px
 }
 /*panorama*/
-.panorama{
+.panop{
 	height: 500px;
 	width: 100%;
 }
@@ -119,3 +119,15 @@ a{
 color: #FC8A10;
 }
 
+@media(max-width: 1150px){
+	.nav-ul{
+		flex-wrap: wrap;
+
+	}
+}
+@media(max-width: 635px){
+	.div-container{
+		flex-wrap: wrap;
+
+	}
+}
