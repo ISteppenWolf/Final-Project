@@ -1,6 +1,5 @@
 /*header*/
 .container{
-	max-width: 1920px;
 	width: 100%;
 	height: 200px;
 	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#a90329+0,8f0222+44,6d0019+100;Brown+Red+3D */
@@ -11,7 +10,7 @@
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
  }
  .logo{
- 	width: 200px;
+ 	height: 200px;
  }
  .flex{
  	display: flex;
@@ -27,7 +26,7 @@
 }
 
 .emhyr{
-	width: 200px;
+	height: 200px;
 }
 /*header*/
 
@@ -35,7 +34,7 @@
 	display: flex;
 }
 .geralt{
-	width: 300px;
+	height:450px;
 	display: flex;
 }
 .text-box{
@@ -51,14 +50,13 @@
 .section-flex{
 	display: inline-block;
 	margin-top: 5px;
-	max-width: 1920px;
 }
 .ciri{
-	width: 300px;
+	height: 450px;
 	
 }
 .yen{
-	width: 300px
+	height: 450px
 }
 /*panorama*/
 .panop{
@@ -88,7 +86,7 @@
 	margin-top: 10px;
 }
 /*/pharagraph*/
-*/.just{
+.just{
 	margin-top: 10px;
 }
 .white-line{
